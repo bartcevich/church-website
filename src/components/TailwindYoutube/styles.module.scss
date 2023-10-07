@@ -1,0 +1,29 @@
+.wrapper{
+    // width: 1199px;
+    height: 695px;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+.placeContent{
+    padding: 70px 0 30px 0;
+    display: flex;
+    justify-content: center;
+}
+.h2{
+    max-width: 200px;
+    width: 100%;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.places{
+    a{
+        color: #fff;
+        background-color: black;
+    }
+    img{
+        //width: 100%;
+        max-width: 400px;
+    }
+}

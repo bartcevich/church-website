@@ -1,0 +1,34 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    padding: 5% 0 5% 0;
+    background: #99b5bf;
+    text-align: center;
+}
+.textH3{
+    color: #fff;
+    font-family: Alegreya,serif!important;
+    font-size: 48px;
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: -.025em;
+    // margin-bottom: 0;
+    // text-align: center;
+    // text-transform: capitalize;
+}
+.textH2{
+    font-size: 60px;
+    letter-spacing: -.025em;
+    color: #212121;
+    // text-align: center;
+    // text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;;
+    margin-bottom: 40px;
+    line-height: 1;
+}
+.textH4{
+    font-size: 25px;
+    color: #525050;
+    line-height: 30px;
+    letter-spacing: -.025em;
+}
